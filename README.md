@@ -11,7 +11,15 @@ A collaborative guide by Mercy Ngatho ,Mark Mungai ,Josiah Wamenju.
 This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
-## Chatgpt
+# Vs Code (By Mark)
+Visual Studio Code (VS Code) is a free, powerful, and lightweight source code editor developed by Microsoft that runs on Windows, macOS, and Linux
+It combines the simplicity of a traditional code editor with many features typically found in a full-fledged Integrated Development Environment (IDE), such as debugging, intelligent code completion (IntelliSense), and built-in Git version control.
+
+Advantages:
+-Is available at no cost
+-Lightweight and High Performance
+-High Customizability
+
 ## ChatGPT (By Mercy)
 
 ChatGPT is an AI-powered assistant that helps students:
@@ -25,9 +33,3 @@ Advantages:
 - Improves understanding
 - Available 24/7 
 
-## Notion
-<!-- [Team Member 2 Name] will write this section -->
-
-## 
-<!-- [Team Member 3 Name] will write this section -->
-ai is a usefull tool
