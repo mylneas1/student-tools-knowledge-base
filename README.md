@@ -18,7 +18,7 @@ ChatGPT is an AI-powered assistant that helps students:
 - Explain difficult concepts
 - Summarize notes
 - Generate ideas
-- Solve programming problems
+- Solve programming problems.
 
 Advantages:
 - Saves time
