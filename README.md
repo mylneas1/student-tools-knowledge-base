@@ -11,11 +11,22 @@ A collaborative guide by Mercy Ngatho ,Mark Mungai ,Josiah Wamenju.
 This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
-## VS Code
-<!-- [Team Member 1 Name] will write this section -->
+## Chatgpt
+<!--## ChatGPT (By Mercy)
+
+ChatGPT is an AI-powered assistant that helps students:
+- Explain difficult concepts
+- Summarize notes
+- Generate ideas
+- Solve programming problems.
+
+Advantages:
+- Saves time
+- Improves understanding
+- Available 24/7 -->
 
 ## Notion
 <!-- [Team Member 2 Name] will write this section -->
 
-## Canva
+## 
 <!-- [Team Member 3 Name] will write this section -->
