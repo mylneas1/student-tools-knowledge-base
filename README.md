@@ -12,7 +12,7 @@ This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
 ## Chatgpt
-<!--## ChatGPT (By Mercy)
+## ChatGPT (By Mercy)
 
 ChatGPT is an AI-powered assistant that helps students:
 - Explain difficult concepts
@@ -23,7 +23,7 @@ ChatGPT is an AI-powered assistant that helps students:
 Advantages:
 - Saves time
 - Improves understanding
-- Available 24/7 -->
+- Available 24/7 
 
 ## Notion
 <!-- [Team Member 2 Name] will write this section -->
