@@ -20,3 +20,4 @@ Each section is written by a different team member.
 ## Canva
 <!-- [Team Member 3 Name] will write this section -->
 ai is a usefull tool
+canva
