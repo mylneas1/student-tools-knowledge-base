@@ -27,9 +27,15 @@ ChatGPT is an AI-powered assistant that helps students:
 - Summarize notes
 - Generate ideas
 - Solve programming problems.
-
 Advantages:
 - Saves time
 - Improves understanding
 - Available 24/7 
-
+- 
+## Canva
+Create presentations
+Design posters and flyers
+Make resumes and CVs
+Create social media graphics
+Design infographics
+Produce group project reports
