@@ -20,7 +20,7 @@ It combines the simplicity of a traditional code editor with many features typic
 
 Advantages:
 -Is available at no cost
--Lightweight and Performant
+-Lightweight and High Performance
 -High Customizability
 ## Notion
 <!-- [Team Member 2 Name] will write this section -->
